@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1886-10-14.txt</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1890-06-19.txt</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1892-03-10.txt</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1897-05-13.txt</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1900-12-13.txt</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1904-12-01.txt</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1912-05-16.txt</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1916-05-25.txt</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1919-06-26.txt</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1923-02-08.txt</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1927-05-19.txt</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1931-08-27.txt</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1935-11-28.txt</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1936-08-20.txt</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1939-10-26.txt</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1944-08-10.txt</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1948-07-29.txt</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1952-07-17.txt</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1956-06-21.txt</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1960-06-23.txt</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1962-11-15.txt</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1966-06-09.txt</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1970-04-29.txt</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1981-04-15.txt</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1985-12-04.txt</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1989-09-27.txt</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1994-09-14.txt</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\Prov El/83471_1998-12-02.txt</data>
+    </node>
+    <edge source="n9" target="n10">
+    </edge>
+    <edge source="n15" target="n16">
+    </edge>
+    <edge source="n18" target="n19">
+    </edge>
+    <edge source="n17" target="n20">
+    </edge>
+    <edge source="n18" target="n21">
+    </edge>
+    <edge source="n19" target="n21">
+    </edge>
+    <edge source="n21" target="n22">
+    </edge>
+    <edge source="n24" target="n25">
+    </edge>
+  </graph>
+</graphml>
