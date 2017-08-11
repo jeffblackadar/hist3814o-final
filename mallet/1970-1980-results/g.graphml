@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-01-07.txt</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-01-14.txt</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-01-21.txt</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-01-28.txt</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-02-04.txt</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-02-11.txt</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-02-18.txt</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-02-25.txt</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-03-04.txt</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-03-11.txt</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-03-18.txt</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-03-25.txt</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-04-01.txt</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-04-08.txt</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-04-15.txt</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-04-22.txt</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-04-29.txt</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-05-06.txt</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-05-13.txt</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-05-20.txt</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-05-27.txt</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-06-03.txt</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-06-10.txt</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-06-17.txt</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-06-24.txt</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-07-01.txt</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-07-08.txt</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-07-15.txt</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-07-29.txt</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-08-05.txt</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-08-12.txt</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-08-19.txt</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-08-26.txt</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-09-02.txt</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-09-09.txt</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-09-16.txt</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-09-23.txt</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-09-30.txt</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-10-07.txt</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-10-14.txt</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-10-21.txt</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-10-28.txt</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-11-04.txt</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-11-11.txt</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-11-18.txt</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-11-25.txt</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-12-02.txt</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-12-09.txt</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-12-16.txt</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-12-23.txt</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1970-12-30.txt</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-01-06.txt</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-01-13.txt</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-01-20.txt</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-01-27.txt</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-02-03.txt</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-02-10.txt</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-02-17.txt</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-02-24.txt</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-03-03.txt</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-03-10.txt</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-03-17.txt</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-03-24.txt</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-03-31.txt</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-04-07.txt</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-04-14.txt</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-04-21.txt</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-04-28.txt</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-05-05.txt</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-05-12.txt</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-05-19.txt</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-05-26.txt</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-06-02.txt</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-06-09.txt</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-06-16.txt</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-06-23.txt</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-06-30.txt</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-07-07.txt</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-07-14.txt</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-07-28.txt</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-08-04.txt</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-08-11.txt</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-08-18.txt</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-08-25.txt</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-09-01.txt</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-09-08.txt</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-09-15.txt</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-09-22.txt</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-09-29.txt</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-10-06.txt</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-10-13.txt</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-10-20.txt</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-10-27.txt</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-11-03.txt</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-11-10.txt</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-11-17.txt</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-11-24.txt</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-12-01.txt</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-12-08.txt</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-12-15.txt</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-12-22.txt</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1971-12-29.txt</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-01-05.txt</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-01-12.txt</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-01-19.txt</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-01-26.txt</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-02-02.txt</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-02-09.txt</data>
+    </node>
+    <node id="n108">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-02-16.txt</data>
+    </node>
+    <node id="n109">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-02-23.txt</data>
+    </node>
+    <node id="n110">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-03-01.txt</data>
+    </node>
+    <node id="n111">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-03-08.txt</data>
+    </node>
+    <node id="n112">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-03-15.txt</data>
+    </node>
+    <node id="n113">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-03-22.txt</data>
+    </node>
+    <node id="n114">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-03-29.txt</data>
+    </node>
+    <node id="n115">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-04-05.txt</data>
+    </node>
+    <node id="n116">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-04-12.txt</data>
+    </node>
+    <node id="n117">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-04-19.txt</data>
+    </node>
+    <node id="n118">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-04-26.txt</data>
+    </node>
+    <node id="n119">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-05-03.txt</data>
+    </node>
+    <node id="n120">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-05-10.txt</data>
+    </node>
+    <node id="n121">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-05-17.txt</data>
+    </node>
+    <node id="n122">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-05-24.txt</data>
+    </node>
+    <node id="n123">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-05-31.txt</data>
+    </node>
+    <node id="n124">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-06-07.txt</data>
+    </node>
+    <node id="n125">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-06-14.txt</data>
+    </node>
+    <node id="n126">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-06-21.txt</data>
+    </node>
+    <node id="n127">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-06-28.txt</data>
+    </node>
+    <node id="n128">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-07-05.txt</data>
+    </node>
+    <node id="n129">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-07-12.txt</data>
+    </node>
+    <node id="n130">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-07-26.txt</data>
+    </node>
+    <node id="n131">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-08-02.txt</data>
+    </node>
+    <node id="n132">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-08-09.txt</data>
+    </node>
+    <node id="n133">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-08-16.txt</data>
+    </node>
+    <node id="n134">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-08-23.txt</data>
+    </node>
+    <node id="n135">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-08-30.txt</data>
+    </node>
+    <node id="n136">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-09-06.txt</data>
+    </node>
+    <node id="n137">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-09-13.txt</data>
+    </node>
+    <node id="n138">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-09-20.txt</data>
+    </node>
+    <node id="n139">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-09-27.txt</data>
+    </node>
+    <node id="n140">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-10-04.txt</data>
+    </node>
+    <node id="n141">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-10-11.txt</data>
+    </node>
+    <node id="n142">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-10-18.txt</data>
+    </node>
+    <node id="n143">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-10-25.txt</data>
+    </node>
+    <node id="n144">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-11-01.txt</data>
+    </node>
+    <node id="n145">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-11-08.txt</data>
+    </node>
+    <node id="n146">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-11-15.txt</data>
+    </node>
+    <node id="n147">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-11-22.txt</data>
+    </node>
+    <node id="n148">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-11-29.txt</data>
+    </node>
+    <node id="n149">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-12-06.txt</data>
+    </node>
+    <node id="n150">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-12-13.txt</data>
+    </node>
+    <node id="n151">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-12-20.txt</data>
+    </node>
+    <node id="n152">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1972-12-27.txt</data>
+    </node>
+    <node id="n153">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-01-03.txt</data>
+    </node>
+    <node id="n154">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-01-10.txt</data>
+    </node>
+    <node id="n155">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-01-17.txt</data>
+    </node>
+    <node id="n156">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-01-24.txt</data>
+    </node>
+    <node id="n157">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-01-31.txt</data>
+    </node>
+    <node id="n158">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-02-07.txt</data>
+    </node>
+    <node id="n159">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-02-14.txt</data>
+    </node>
+    <node id="n160">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-02-21.txt</data>
+    </node>
+    <node id="n161">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-02-28.txt</data>
+    </node>
+    <node id="n162">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-03-07.txt</data>
+    </node>
+    <node id="n163">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-03-14.txt</data>
+    </node>
+    <node id="n164">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-03-21.txt</data>
+    </node>
+    <node id="n165">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-03-28.txt</data>
+    </node>
+    <node id="n166">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-04-04.txt</data>
+    </node>
+    <node id="n167">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-04-11.txt</data>
+    </node>
+    <node id="n168">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-04-18.txt</data>
+    </node>
+    <node id="n169">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-04-25.txt</data>
+    </node>
+    <node id="n170">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-05-02.txt</data>
+    </node>
+    <node id="n171">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-05-09.txt</data>
+    </node>
+    <node id="n172">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-05-16.txt</data>
+    </node>
+    <node id="n173">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-05-23.txt</data>
+    </node>
+    <node id="n174">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-05-30.txt</data>
+    </node>
+    <node id="n175">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-06-06.txt</data>
+    </node>
+    <node id="n176">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-06-13.txt</data>
+    </node>
+    <node id="n177">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-06-20.txt</data>
+    </node>
+    <node id="n178">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-06-27.txt</data>
+    </node>
+    <node id="n179">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-07-04.txt</data>
+    </node>
+    <node id="n180">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-07-11.txt</data>
+    </node>
+    <node id="n181">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-07-18.txt</data>
+    </node>
+    <node id="n182">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-08-01.txt</data>
+    </node>
+    <node id="n183">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-08-08.txt</data>
+    </node>
+    <node id="n184">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-08-15.txt</data>
+    </node>
+    <node id="n185">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-08-22.txt</data>
+    </node>
+    <node id="n186">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-08-29.txt</data>
+    </node>
+    <node id="n187">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-09-05.txt</data>
+    </node>
+    <node id="n188">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-09-12.txt</data>
+    </node>
+    <node id="n189">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-09-19.txt</data>
+    </node>
+    <node id="n190">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-09-26.txt</data>
+    </node>
+    <node id="n191">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-10-03.txt</data>
+    </node>
+    <node id="n192">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-10-10.txt</data>
+    </node>
+    <node id="n193">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-10-17.txt</data>
+    </node>
+    <node id="n194">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-10-24.txt</data>
+    </node>
+    <node id="n195">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-10-31.txt</data>
+    </node>
+    <node id="n196">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-11-07.txt</data>
+    </node>
+    <node id="n197">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-11-14.txt</data>
+    </node>
+    <node id="n198">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-11-21.txt</data>
+    </node>
+    <node id="n199">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-11-28.txt</data>
+    </node>
+    <node id="n200">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-12-05.txt</data>
+    </node>
+    <node id="n201">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-12-12.txt</data>
+    </node>
+    <node id="n202">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-12-19.txt</data>
+    </node>
+    <node id="n203">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1973-12-26.txt</data>
+    </node>
+    <node id="n204">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-01-09.txt</data>
+    </node>
+    <node id="n205">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-01-16.txt</data>
+    </node>
+    <node id="n206">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-01-23.txt</data>
+    </node>
+    <node id="n207">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-01-30.txt</data>
+    </node>
+    <node id="n208">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-02-06.txt</data>
+    </node>
+    <node id="n209">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-02-13.txt</data>
+    </node>
+    <node id="n210">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-02-20.txt</data>
+    </node>
+    <node id="n211">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-02-27.txt</data>
+    </node>
+    <node id="n212">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-03-06.txt</data>
+    </node>
+    <node id="n213">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-03-13.txt</data>
+    </node>
+    <node id="n214">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-03-20.txt</data>
+    </node>
+    <node id="n215">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-03-27.txt</data>
+    </node>
+    <node id="n216">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-04-03.txt</data>
+    </node>
+    <node id="n217">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-04-10.txt</data>
+    </node>
+    <node id="n218">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-04-17.txt</data>
+    </node>
+    <node id="n219">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-04-24.txt</data>
+    </node>
+    <node id="n220">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-05-01.txt</data>
+    </node>
+    <node id="n221">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-05-08.txt</data>
+    </node>
+    <node id="n222">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-05-15.txt</data>
+    </node>
+    <node id="n223">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-05-22.txt</data>
+    </node>
+    <node id="n224">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-05-29.txt</data>
+    </node>
+    <node id="n225">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-06-05.txt</data>
+    </node>
+    <node id="n226">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-06-12.txt</data>
+    </node>
+    <node id="n227">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-06-19.txt</data>
+    </node>
+    <node id="n228">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-06-26.txt</data>
+    </node>
+    <node id="n229">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-07-03.txt</data>
+    </node>
+    <node id="n230">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-07-10.txt</data>
+    </node>
+    <node id="n231">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-07-17.txt</data>
+    </node>
+    <node id="n232">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-07-24.txt</data>
+    </node>
+    <node id="n233">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-07-31.txt</data>
+    </node>
+    <node id="n234">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-08-07.txt</data>
+    </node>
+    <node id="n235">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-08-14.txt</data>
+    </node>
+    <node id="n236">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-08-28.txt</data>
+    </node>
+    <node id="n237">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-09-04.txt</data>
+    </node>
+    <node id="n238">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-09-11.txt</data>
+    </node>
+    <node id="n239">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-09-18.txt</data>
+    </node>
+    <node id="n240">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-09-25.txt</data>
+    </node>
+    <node id="n241">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-10-02.txt</data>
+    </node>
+    <node id="n242">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-10-09.txt</data>
+    </node>
+    <node id="n243">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-10-16.txt</data>
+    </node>
+    <node id="n244">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-10-23.txt</data>
+    </node>
+    <node id="n245">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-10-30.txt</data>
+    </node>
+    <node id="n246">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-11-06.txt</data>
+    </node>
+    <node id="n247">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-11-13.txt</data>
+    </node>
+    <node id="n248">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-11-20.txt</data>
+    </node>
+    <node id="n249">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-11-27.txt</data>
+    </node>
+    <node id="n250">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-12-04.txt</data>
+    </node>
+    <node id="n251">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-12-11.txt</data>
+    </node>
+    <node id="n252">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-12-18.txt</data>
+    </node>
+    <node id="n253">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1974-12-25.txt</data>
+    </node>
+    <node id="n254">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-01-08.txt</data>
+    </node>
+    <node id="n255">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-01-15.txt</data>
+    </node>
+    <node id="n256">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-01-22.txt</data>
+    </node>
+    <node id="n257">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-01-29.txt</data>
+    </node>
+    <node id="n258">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-02-05.txt</data>
+    </node>
+    <node id="n259">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-02-12.txt</data>
+    </node>
+    <node id="n260">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-02-19.txt</data>
+    </node>
+    <node id="n261">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-02-26.txt</data>
+    </node>
+    <node id="n262">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-03-05.txt</data>
+    </node>
+    <node id="n263">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-03-12.txt</data>
+    </node>
+    <node id="n264">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-03-19.txt</data>
+    </node>
+    <node id="n265">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-03-26.txt</data>
+    </node>
+    <node id="n266">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-04-02.txt</data>
+    </node>
+    <node id="n267">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-04-09.txt</data>
+    </node>
+    <node id="n268">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-04-16.txt</data>
+    </node>
+    <node id="n269">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-04-23.txt</data>
+    </node>
+    <node id="n270">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-04-30.txt</data>
+    </node>
+    <node id="n271">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-05-07.txt</data>
+    </node>
+    <node id="n272">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-05-14.txt</data>
+    </node>
+    <node id="n273">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-05-21.txt</data>
+    </node>
+    <node id="n274">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-05-28.txt</data>
+    </node>
+    <node id="n275">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-06-04.txt</data>
+    </node>
+    <node id="n276">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-06-11.txt</data>
+    </node>
+    <node id="n277">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-06-18.txt</data>
+    </node>
+    <node id="n278">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-06-25.txt</data>
+    </node>
+    <node id="n279">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-07-02.txt</data>
+    </node>
+    <node id="n280">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-07-09.txt</data>
+    </node>
+    <node id="n281">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-07-16.txt</data>
+    </node>
+    <node id="n282">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-07-30.txt</data>
+    </node>
+    <node id="n283">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-08-06.txt</data>
+    </node>
+    <node id="n284">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-08-13.txt</data>
+    </node>
+    <node id="n285">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-08-20.txt</data>
+    </node>
+    <node id="n286">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-08-27.txt</data>
+    </node>
+    <node id="n287">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-09-03.txt</data>
+    </node>
+    <node id="n288">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-09-10.txt</data>
+    </node>
+    <node id="n289">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-09-17.txt</data>
+    </node>
+    <node id="n290">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-09-24.txt</data>
+    </node>
+    <node id="n291">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-10-01.txt</data>
+    </node>
+    <node id="n292">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-10-08.txt</data>
+    </node>
+    <node id="n293">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-10-15.txt</data>
+    </node>
+    <node id="n294">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-10-22.txt</data>
+    </node>
+    <node id="n295">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-10-29.txt</data>
+    </node>
+    <node id="n296">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-11-05.txt</data>
+    </node>
+    <node id="n297">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-11-12.txt</data>
+    </node>
+    <node id="n298">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-11-19.txt</data>
+    </node>
+    <node id="n299">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-11-26.txt</data>
+    </node>
+    <node id="n300">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-12-03.txt</data>
+    </node>
+    <node id="n301">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-12-10.txt</data>
+    </node>
+    <node id="n302">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-12-17.txt</data>
+    </node>
+    <node id="n303">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-12-24.txt</data>
+    </node>
+    <node id="n304">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1975-12-31.txt</data>
+    </node>
+    <node id="n305">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-01-07.txt</data>
+    </node>
+    <node id="n306">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-01-14.txt</data>
+    </node>
+    <node id="n307">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-01-21.txt</data>
+    </node>
+    <node id="n308">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-01-28.txt</data>
+    </node>
+    <node id="n309">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-02-04.txt</data>
+    </node>
+    <node id="n310">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-02-11.txt</data>
+    </node>
+    <node id="n311">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-02-18.txt</data>
+    </node>
+    <node id="n312">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-02-25.txt</data>
+    </node>
+    <node id="n313">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-03-03.txt</data>
+    </node>
+    <node id="n314">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-03-10.txt</data>
+    </node>
+    <node id="n315">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-03-17.txt</data>
+    </node>
+    <node id="n316">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-03-24.txt</data>
+    </node>
+    <node id="n317">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-03-31.txt</data>
+    </node>
+    <node id="n318">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-04-07.txt</data>
+    </node>
+    <node id="n319">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-04-14.txt</data>
+    </node>
+    <node id="n320">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-04-21.txt</data>
+    </node>
+    <node id="n321">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-04-28.txt</data>
+    </node>
+    <node id="n322">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-05-05.txt</data>
+    </node>
+    <node id="n323">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-05-12.txt</data>
+    </node>
+    <node id="n324">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-05-19.txt</data>
+    </node>
+    <node id="n325">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-05-26.txt</data>
+    </node>
+    <node id="n326">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-06-02.txt</data>
+    </node>
+    <node id="n327">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-06-09.txt</data>
+    </node>
+    <node id="n328">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-06-16.txt</data>
+    </node>
+    <node id="n329">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-06-23.txt</data>
+    </node>
+    <node id="n330">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-06-30.txt</data>
+    </node>
+    <node id="n331">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-07-07.txt</data>
+    </node>
+    <node id="n332">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-07-14.txt</data>
+    </node>
+    <node id="n333">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-07-21.txt</data>
+    </node>
+    <node id="n334">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-07-28.txt</data>
+    </node>
+    <node id="n335">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-08-04.txt</data>
+    </node>
+    <node id="n336">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-08-11.txt</data>
+    </node>
+    <node id="n337">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-08-25.txt</data>
+    </node>
+    <node id="n338">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-09-01.txt</data>
+    </node>
+    <node id="n339">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-09-08.txt</data>
+    </node>
+    <node id="n340">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-09-15.txt</data>
+    </node>
+    <node id="n341">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-09-22.txt</data>
+    </node>
+    <node id="n342">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-09-29.txt</data>
+    </node>
+    <node id="n343">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-10-06.txt</data>
+    </node>
+    <node id="n344">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-10-13.txt</data>
+    </node>
+    <node id="n345">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-10-20.txt</data>
+    </node>
+    <node id="n346">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-10-27.txt</data>
+    </node>
+    <node id="n347">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-11-03.txt</data>
+    </node>
+    <node id="n348">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-11-10.txt</data>
+    </node>
+    <node id="n349">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-11-17.txt</data>
+    </node>
+    <node id="n350">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-11-24.txt</data>
+    </node>
+    <node id="n351">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-12-01.txt</data>
+    </node>
+    <node id="n352">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-12-08.txt</data>
+    </node>
+    <node id="n353">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-12-15.txt</data>
+    </node>
+    <node id="n354">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-12-22.txt</data>
+    </node>
+    <node id="n355">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1976-12-29.txt</data>
+    </node>
+    <node id="n356">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-01-05.txt</data>
+    </node>
+    <node id="n357">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-01-12.txt</data>
+    </node>
+    <node id="n358">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-01-19.txt</data>
+    </node>
+    <node id="n359">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-01-26.txt</data>
+    </node>
+    <node id="n360">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-02-02.txt</data>
+    </node>
+    <node id="n361">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-02-09.txt</data>
+    </node>
+    <node id="n362">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-02-16.txt</data>
+    </node>
+    <node id="n363">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-02-23.txt</data>
+    </node>
+    <node id="n364">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-03-02.txt</data>
+    </node>
+    <node id="n365">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-03-09.txt</data>
+    </node>
+    <node id="n366">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-03-16.txt</data>
+    </node>
+    <node id="n367">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-03-23.txt</data>
+    </node>
+    <node id="n368">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-03-30.txt</data>
+    </node>
+    <node id="n369">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-04-06.txt</data>
+    </node>
+    <node id="n370">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-04-13.txt</data>
+    </node>
+    <node id="n371">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-04-20.txt</data>
+    </node>
+    <node id="n372">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-04-27.txt</data>
+    </node>
+    <node id="n373">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-05-04.txt</data>
+    </node>
+    <node id="n374">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-05-11.txt</data>
+    </node>
+    <node id="n375">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-05-18.txt</data>
+    </node>
+    <node id="n376">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-05-25.txt</data>
+    </node>
+    <node id="n377">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-06-01.txt</data>
+    </node>
+    <node id="n378">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-06-08.txt</data>
+    </node>
+    <node id="n379">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-06-15.txt</data>
+    </node>
+    <node id="n380">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-06-22.txt</data>
+    </node>
+    <node id="n381">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-06-29.txt</data>
+    </node>
+    <node id="n382">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-07-06.txt</data>
+    </node>
+    <node id="n383">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-07-13.txt</data>
+    </node>
+    <node id="n384">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-07-27.txt</data>
+    </node>
+    <node id="n385">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-08-03.txt</data>
+    </node>
+    <node id="n386">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-08-10.txt</data>
+    </node>
+    <node id="n387">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-08-17.txt</data>
+    </node>
+    <node id="n388">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-08-24.txt</data>
+    </node>
+    <node id="n389">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-08-31.txt</data>
+    </node>
+    <node id="n390">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-09-07.txt</data>
+    </node>
+    <node id="n391">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-09-14.txt</data>
+    </node>
+    <node id="n392">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-09-21.txt</data>
+    </node>
+    <node id="n393">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-09-28.txt</data>
+    </node>
+    <node id="n394">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-10-05.txt</data>
+    </node>
+    <node id="n395">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-10-12.txt</data>
+    </node>
+    <node id="n396">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-10-19.txt</data>
+    </node>
+    <node id="n397">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-10-26.txt</data>
+    </node>
+    <node id="n398">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-11-02.txt</data>
+    </node>
+    <node id="n399">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-11-09.txt</data>
+    </node>
+    <node id="n400">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-11-16.txt</data>
+    </node>
+    <node id="n401">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-11-23.txt</data>
+    </node>
+    <node id="n402">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-11-30.txt</data>
+    </node>
+    <node id="n403">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-12-07.txt</data>
+    </node>
+    <node id="n404">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-12-14.txt</data>
+    </node>
+    <node id="n405">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-12-21.txt</data>
+    </node>
+    <node id="n406">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1977-12-28.txt</data>
+    </node>
+    <node id="n407">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-01-04.txt</data>
+    </node>
+    <node id="n408">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-01-11.txt</data>
+    </node>
+    <node id="n409">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-01-18.txt</data>
+    </node>
+    <node id="n410">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-01-25.txt</data>
+    </node>
+    <node id="n411">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-02-01.txt</data>
+    </node>
+    <node id="n412">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-02-08.txt</data>
+    </node>
+    <node id="n413">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-02-15.txt</data>
+    </node>
+    <node id="n414">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-02-22.txt</data>
+    </node>
+    <node id="n415">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-03-01.txt</data>
+    </node>
+    <node id="n416">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-03-08.txt</data>
+    </node>
+    <node id="n417">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-03-15.txt</data>
+    </node>
+    <node id="n418">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-03-22.txt</data>
+    </node>
+    <node id="n419">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-03-29.txt</data>
+    </node>
+    <node id="n420">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-04-05.txt</data>
+    </node>
+    <node id="n421">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-04-12.txt</data>
+    </node>
+    <node id="n422">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-04-19.txt</data>
+    </node>
+    <node id="n423">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-04-26.txt</data>
+    </node>
+    <node id="n424">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-05-03.txt</data>
+    </node>
+    <node id="n425">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-05-10.txt</data>
+    </node>
+    <node id="n426">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-05-17.txt</data>
+    </node>
+    <node id="n427">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-05-24.txt</data>
+    </node>
+    <node id="n428">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-05-31.txt</data>
+    </node>
+    <node id="n429">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-06-07.txt</data>
+    </node>
+    <node id="n430">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-06-14.txt</data>
+    </node>
+    <node id="n431">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-06-21.txt</data>
+    </node>
+    <node id="n432">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-06-28.txt</data>
+    </node>
+    <node id="n433">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-07-05.txt</data>
+    </node>
+    <node id="n434">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-07-12.txt</data>
+    </node>
+    <node id="n435">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-07-26.txt</data>
+    </node>
+    <node id="n436">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-08-02.txt</data>
+    </node>
+    <node id="n437">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-08-09.txt</data>
+    </node>
+    <node id="n438">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-08-16.txt</data>
+    </node>
+    <node id="n439">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-08-23.txt</data>
+    </node>
+    <node id="n440">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-08-30.txt</data>
+    </node>
+    <node id="n441">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-09-06.txt</data>
+    </node>
+    <node id="n442">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-09-13.txt</data>
+    </node>
+    <node id="n443">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-09-20.txt</data>
+    </node>
+    <node id="n444">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-09-27.txt</data>
+    </node>
+    <node id="n445">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-10-04.txt</data>
+    </node>
+    <node id="n446">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-10-11.txt</data>
+    </node>
+    <node id="n447">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-10-18.txt</data>
+    </node>
+    <node id="n448">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-10-25.txt</data>
+    </node>
+    <node id="n449">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-11-01.txt</data>
+    </node>
+    <node id="n450">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-11-08.txt</data>
+    </node>
+    <node id="n451">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-11-15.txt</data>
+    </node>
+    <node id="n452">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-11-22.txt</data>
+    </node>
+    <node id="n453">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-11-29.txt</data>
+    </node>
+    <node id="n454">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-12-06.txt</data>
+    </node>
+    <node id="n455">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-12-13.txt</data>
+    </node>
+    <node id="n456">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-12-20.txt</data>
+    </node>
+    <node id="n457">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1978-12-27.txt</data>
+    </node>
+    <node id="n458">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-01-03.txt</data>
+    </node>
+    <node id="n459">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-01-10.txt</data>
+    </node>
+    <node id="n460">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-01-17.txt</data>
+    </node>
+    <node id="n461">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-01-24.txt</data>
+    </node>
+    <node id="n462">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-01-31.txt</data>
+    </node>
+    <node id="n463">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-02-07.txt</data>
+    </node>
+    <node id="n464">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-02-14.txt</data>
+    </node>
+    <node id="n465">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-02-21.txt</data>
+    </node>
+    <node id="n466">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-02-28.txt</data>
+    </node>
+    <node id="n467">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-03-07.txt</data>
+    </node>
+    <node id="n468">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-03-14.txt</data>
+    </node>
+    <node id="n469">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-03-21.txt</data>
+    </node>
+    <node id="n470">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-03-28.txt</data>
+    </node>
+    <node id="n471">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-04-04.txt</data>
+    </node>
+    <node id="n472">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-04-11.txt</data>
+    </node>
+    <node id="n473">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-04-18.txt</data>
+    </node>
+    <node id="n474">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-04-25.txt</data>
+    </node>
+    <node id="n475">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-05-02.txt</data>
+    </node>
+    <node id="n476">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-05-09.txt</data>
+    </node>
+    <node id="n477">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-05-16.txt</data>
+    </node>
+    <node id="n478">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-05-23.txt</data>
+    </node>
+    <node id="n479">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-05-30.txt</data>
+    </node>
+    <node id="n480">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-06-06.txt</data>
+    </node>
+    <node id="n481">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-06-13.txt</data>
+    </node>
+    <node id="n482">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-06-20.txt</data>
+    </node>
+    <node id="n483">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-06-27.txt</data>
+    </node>
+    <node id="n484">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-07-04.txt</data>
+    </node>
+    <node id="n485">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-07-11.txt</data>
+    </node>
+    <node id="n486">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-07-25.txt</data>
+    </node>
+    <node id="n487">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-08-01.txt</data>
+    </node>
+    <node id="n488">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-08-08.txt</data>
+    </node>
+    <node id="n489">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-08-15.txt</data>
+    </node>
+    <node id="n490">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-08-22.txt</data>
+    </node>
+    <node id="n491">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-08-29.txt</data>
+    </node>
+    <node id="n492">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-09-05.txt</data>
+    </node>
+    <node id="n493">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-09-12.txt</data>
+    </node>
+    <node id="n494">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-09-19.txt</data>
+    </node>
+    <node id="n495">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-09-26.txt</data>
+    </node>
+    <node id="n496">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-10-03.txt</data>
+    </node>
+    <node id="n497">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-10-10.txt</data>
+    </node>
+    <node id="n498">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-10-17.txt</data>
+    </node>
+    <node id="n499">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-10-24.txt</data>
+    </node>
+    <node id="n500">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-10-31.txt</data>
+    </node>
+    <node id="n501">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-11-07.txt</data>
+    </node>
+    <node id="n502">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-11-14.txt</data>
+    </node>
+    <node id="n503">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-11-21.txt</data>
+    </node>
+    <node id="n504">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-11-28.txt</data>
+    </node>
+    <node id="n505">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-12-05.txt</data>
+    </node>
+    <node id="n506">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-12-12.txt</data>
+    </node>
+    <node id="n507">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-12-19.txt</data>
+    </node>
+    <node id="n508">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1979-12-26.txt</data>
+    </node>
+    <node id="n509">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-01-03.txt</data>
+    </node>
+    <node id="n510">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-01-09.txt</data>
+    </node>
+    <node id="n511">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-01-16.txt</data>
+    </node>
+    <node id="n512">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-01-23.txt</data>
+    </node>
+    <node id="n513">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-01-30.txt</data>
+    </node>
+    <node id="n514">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-02-06.txt</data>
+    </node>
+    <node id="n515">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-02-13.txt</data>
+    </node>
+    <node id="n516">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-02-20.txt</data>
+    </node>
+    <node id="n517">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-02-27.txt</data>
+    </node>
+    <node id="n518">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-03-05.txt</data>
+    </node>
+    <node id="n519">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-03-12.txt</data>
+    </node>
+    <node id="n520">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-03-19.txt</data>
+    </node>
+    <node id="n521">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-03-26.txt</data>
+    </node>
+    <node id="n522">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-04-02.txt</data>
+    </node>
+    <node id="n523">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-04-09.txt</data>
+    </node>
+    <node id="n524">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-04-16.txt</data>
+    </node>
+    <node id="n525">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-04-23.txt</data>
+    </node>
+    <node id="n526">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-04-30.txt</data>
+    </node>
+    <node id="n527">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-05-07.txt</data>
+    </node>
+    <node id="n528">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-05-14.txt</data>
+    </node>
+    <node id="n529">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-05-21.txt</data>
+    </node>
+    <node id="n530">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-05-28.txt</data>
+    </node>
+    <node id="n531">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-06-04.txt</data>
+    </node>
+    <node id="n532">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-06-11.txt</data>
+    </node>
+    <node id="n533">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-06-18.txt</data>
+    </node>
+    <node id="n534">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-06-25.txt</data>
+    </node>
+    <node id="n535">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-07-02.txt</data>
+    </node>
+    <node id="n536">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-07-09.txt</data>
+    </node>
+    <node id="n537">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-07-16.txt</data>
+    </node>
+    <node id="n538">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-07-23.txt</data>
+    </node>
+    <node id="n539">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-07-30.txt</data>
+    </node>
+    <node id="n540">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-08-06.txt</data>
+    </node>
+    <node id="n541">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-08-13.txt</data>
+    </node>
+    <node id="n542">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-08-20.txt</data>
+    </node>
+    <node id="n543">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-08-27.txt</data>
+    </node>
+    <node id="n544">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-09-03.txt</data>
+    </node>
+    <node id="n545">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-09-10.txt</data>
+    </node>
+    <node id="n546">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-09-17.txt</data>
+    </node>
+    <node id="n547">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-09-24.txt</data>
+    </node>
+    <node id="n548">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-10-01.txt</data>
+    </node>
+    <node id="n549">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-10-08.txt</data>
+    </node>
+    <node id="n550">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-10-15.txt</data>
+    </node>
+    <node id="n551">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-10-22.txt</data>
+    </node>
+    <node id="n552">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-10-29.txt</data>
+    </node>
+    <node id="n553">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-11-05.txt</data>
+    </node>
+    <node id="n554">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-11-12.txt</data>
+    </node>
+    <node id="n555">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-11-19.txt</data>
+    </node>
+    <node id="n556">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-11-26.txt</data>
+    </node>
+    <node id="n557">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-12-03.txt</data>
+    </node>
+    <node id="n558">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-12-10.txt</data>
+    </node>
+    <node id="n559">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-12-17.txt</data>
+    </node>
+    <node id="n560">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-12-24.txt</data>
+    </node>
+    <node id="n561">
+      <data key="v_name">C:\a_orgs\carleton\hist3814\equity_subcollections\1970-1980/83471_1980-12-31.txt</data>
+    </node>
+    <edge source="n1" target="n3">
+    </edge>
+    <edge source="n4" target="n5">
+    </edge>
+    <edge source="n3" target="n6">
+    </edge>
+    <edge source="n16" target="n18">
+    </edge>
+    <edge source="n16" target="n18">
+    </edge>
+    <edge source="n16" target="n18">
+    </edge>
+    <edge source="n17" target="n18">
+    </edge>
+    <edge source="n17" target="n18">
+    </edge>
+    <edge source="n18" target="n19">
+    </edge>
+    <edge source="n17" target="n20">
+    </edge>
+    <edge source="n18" target="n21">
+    </edge>
+    <edge source="n18" target="n23">
+    </edge>
+    <edge source="n19" target="n23">
+    </edge>
+    <edge source="n21" target="n23">
+    </edge>
+    <edge source="n22" target="n24">
+    </edge>
+    <edge source="n23" target="n24">
+    </edge>
+    <edge source="n42" target="n43">
+    </edge>
+    <edge source="n42" target="n43">
+    </edge>
+    <edge source="n42" target="n43">
+    </edge>
+    <edge source="n27" target="n50">
+    </edge>
+    <edge source="n51" target="n52">
+    </edge>
+    <edge source="n51" target="n54">
+    </edge>
+    <edge source="n54" target="n56">
+    </edge>
+    <edge source="n54" target="n57">
+    </edge>
+    <edge source="n55" target="n57">
+    </edge>
+    <edge source="n63" target="n65">
+    </edge>
+    <edge source="n65" target="n66">
+    </edge>
+    <edge source="n68" target="n69">
+    </edge>
+    <edge source="n69" target="n72">
+    </edge>
+    <edge source="n72" target="n73">
+    </edge>
+    <edge source="n72" target="n74">
+    </edge>
+    <edge source="n73" target="n74">
+    </edge>
+    <edge source="n50" target="n78">
+    </edge>
+    <edge source="n81" target="n85">
+    </edge>
+    <edge source="n82" target="n85">
+    </edge>
+    <edge source="n82" target="n85">
+    </edge>
+    <edge source="n82" target="n85">
+    </edge>
+    <edge source="n39" target="n91">
+    </edge>
+    <edge source="n39" target="n91">
+    </edge>
+    <edge source="n92" target="n93">
+    </edge>
+    <edge source="n93" target="n94">
+    </edge>
+    <edge source="n93" target="n94">
+    </edge>
+    <edge source="n27" target="n101">
+    </edge>
+    <edge source="n78" target="n101">
+    </edge>
+    <edge source="n58" target="n104">
+    </edge>
+    <edge source="n58" target="n104">
+    </edge>
+    <edge source="n58" target="n104">
+    </edge>
+    <edge source="n57" target="n105">
+    </edge>
+    <edge source="n58" target="n105">
+    </edge>
+    <edge source="n104" target="n105">
+    </edge>
+    <edge source="n58" target="n108">
+    </edge>
+    <edge source="n104" target="n108">
+    </edge>
+    <edge source="n114" target="n116">
+    </edge>
+    <edge source="n125" target="n126">
+    </edge>
+    <edge source="n50" target="n129">
+    </edge>
+    <edge source="n101" target="n129">
+    </edge>
+    <edge source="n147" target="n149">
+    </edge>
+    <edge source="n27" target="n152">
+    </edge>
+    <edge source="n78" target="n152">
+    </edge>
+    <edge source="n129" target="n152">
+    </edge>
+    <edge source="n154" target="n155">
+    </edge>
+    <edge source="n166" target="n167">
+    </edge>
+    <edge source="n50" target="n181">
+    </edge>
+    <edge source="n101" target="n181">
+    </edge>
+    <edge source="n152" target="n181">
+    </edge>
+    <edge source="n27" target="n203">
+    </edge>
+    <edge source="n78" target="n203">
+    </edge>
+    <edge source="n129" target="n203">
+    </edge>
+    <edge source="n181" target="n203">
+    </edge>
+    <edge source="n50" target="n235">
+    </edge>
+    <edge source="n50" target="n235">
+    </edge>
+    <edge source="n50" target="n235">
+    </edge>
+    <edge source="n101" target="n235">
+    </edge>
+    <edge source="n101" target="n235">
+    </edge>
+    <edge source="n101" target="n235">
+    </edge>
+    <edge source="n152" target="n235">
+    </edge>
+    <edge source="n152" target="n235">
+    </edge>
+    <edge source="n152" target="n235">
+    </edge>
+    <edge source="n203" target="n235">
+    </edge>
+    <edge source="n203" target="n235">
+    </edge>
+    <edge source="n203" target="n235">
+    </edge>
+    <edge source="n27" target="n253">
+    </edge>
+    <edge source="n78" target="n253">
+    </edge>
+    <edge source="n129" target="n253">
+    </edge>
+    <edge source="n181" target="n253">
+    </edge>
+    <edge source="n235" target="n253">
+    </edge>
+    <edge source="n235" target="n253">
+    </edge>
+    <edge source="n235" target="n253">
+    </edge>
+    <edge source="n257" target="n258">
+    </edge>
+    <edge source="n50" target="n281">
+    </edge>
+    <edge source="n101" target="n281">
+    </edge>
+    <edge source="n152" target="n281">
+    </edge>
+    <edge source="n203" target="n281">
+    </edge>
+    <edge source="n253" target="n281">
+    </edge>
+    <edge source="n27" target="n304">
+    </edge>
+    <edge source="n78" target="n304">
+    </edge>
+    <edge source="n129" target="n304">
+    </edge>
+    <edge source="n181" target="n304">
+    </edge>
+    <edge source="n235" target="n304">
+    </edge>
+    <edge source="n281" target="n304">
+    </edge>
+    <edge source="n50" target="n336">
+    </edge>
+    <edge source="n50" target="n336">
+    </edge>
+    <edge source="n50" target="n336">
+    </edge>
+    <edge source="n101" target="n336">
+    </edge>
+    <edge source="n101" target="n336">
+    </edge>
+    <edge source="n101" target="n336">
+    </edge>
+    <edge source="n152" target="n336">
+    </edge>
+    <edge source="n152" target="n336">
+    </edge>
+    <edge source="n152" target="n336">
+    </edge>
+    <edge source="n203" target="n336">
+    </edge>
+    <edge source="n203" target="n336">
+    </edge>
+    <edge source="n203" target="n336">
+    </edge>
+    <edge source="n253" target="n336">
+    </edge>
+    <edge source="n253" target="n336">
+    </edge>
+    <edge source="n253" target="n336">
+    </edge>
+    <edge source="n304" target="n336">
+    </edge>
+    <edge source="n304" target="n336">
+    </edge>
+    <edge source="n304" target="n336">
+    </edge>
+    <edge source="n27" target="n355">
+    </edge>
+    <edge source="n78" target="n355">
+    </edge>
+    <edge source="n129" target="n355">
+    </edge>
+    <edge source="n181" target="n355">
+    </edge>
+    <edge source="n235" target="n355">
+    </edge>
+    <edge source="n281" target="n355">
+    </edge>
+    <edge source="n336" target="n355">
+    </edge>
+    <edge source="n336" target="n355">
+    </edge>
+    <edge source="n336" target="n355">
+    </edge>
+    <edge source="n372" target="n373">
+    </edge>
+    <edge source="n379" target="n380">
+    </edge>
+    <edge source="n50" target="n383">
+    </edge>
+    <edge source="n101" target="n383">
+    </edge>
+    <edge source="n152" target="n383">
+    </edge>
+    <edge source="n203" target="n383">
+    </edge>
+    <edge source="n253" target="n383">
+    </edge>
+    <edge source="n304" target="n383">
+    </edge>
+    <edge source="n355" target="n383">
+    </edge>
+    <edge source="n400" target="n401">
+    </edge>
+    <edge source="n400" target="n401">
+    </edge>
+    <edge source="n27" target="n406">
+    </edge>
+    <edge source="n78" target="n406">
+    </edge>
+    <edge source="n129" target="n406">
+    </edge>
+    <edge source="n181" target="n406">
+    </edge>
+    <edge source="n235" target="n406">
+    </edge>
+    <edge source="n281" target="n406">
+    </edge>
+    <edge source="n336" target="n406">
+    </edge>
+    <edge source="n383" target="n406">
+    </edge>
+    <edge source="n420" target="n421">
+    </edge>
+    <edge source="n430" target="n431">
+    </edge>
+    <edge source="n50" target="n434">
+    </edge>
+    <edge source="n101" target="n434">
+    </edge>
+    <edge source="n152" target="n434">
+    </edge>
+    <edge source="n203" target="n434">
+    </edge>
+    <edge source="n253" target="n434">
+    </edge>
+    <edge source="n304" target="n434">
+    </edge>
+    <edge source="n355" target="n434">
+    </edge>
+    <edge source="n406" target="n434">
+    </edge>
+    <edge source="n454" target="n455">
+    </edge>
+    <edge source="n27" target="n457">
+    </edge>
+    <edge source="n78" target="n457">
+    </edge>
+    <edge source="n129" target="n457">
+    </edge>
+    <edge source="n181" target="n457">
+    </edge>
+    <edge source="n235" target="n457">
+    </edge>
+    <edge source="n281" target="n457">
+    </edge>
+    <edge source="n336" target="n457">
+    </edge>
+    <edge source="n383" target="n457">
+    </edge>
+    <edge source="n434" target="n457">
+    </edge>
+    <edge source="n478" target="n479">
+    </edge>
+    <edge source="n50" target="n485">
+    </edge>
+    <edge source="n101" target="n485">
+    </edge>
+    <edge source="n152" target="n485">
+    </edge>
+    <edge source="n203" target="n485">
+    </edge>
+    <edge source="n253" target="n485">
+    </edge>
+    <edge source="n304" target="n485">
+    </edge>
+    <edge source="n355" target="n485">
+    </edge>
+    <edge source="n406" target="n485">
+    </edge>
+    <edge source="n457" target="n485">
+    </edge>
+    <edge source="n498" target="n499">
+    </edge>
+    <edge source="n498" target="n499">
+    </edge>
+    <edge source="n27" target="n508">
+    </edge>
+    <edge source="n78" target="n508">
+    </edge>
+    <edge source="n129" target="n508">
+    </edge>
+    <edge source="n181" target="n508">
+    </edge>
+    <edge source="n235" target="n508">
+    </edge>
+    <edge source="n281" target="n508">
+    </edge>
+    <edge source="n336" target="n508">
+    </edge>
+    <edge source="n383" target="n508">
+    </edge>
+    <edge source="n434" target="n508">
+    </edge>
+    <edge source="n485" target="n508">
+    </edge>
+    <edge source="n533" target="n534">
+    </edge>
+    <edge source="n531" target="n535">
+    </edge>
+    <edge source="n531" target="n535">
+    </edge>
+    <edge source="n533" target="n537">
+    </edge>
+    <edge source="n534" target="n537">
+    </edge>
+    <edge source="n533" target="n538">
+    </edge>
+    <edge source="n534" target="n538">
+    </edge>
+    <edge source="n537" target="n538">
+    </edge>
+    <edge source="n27" target="n561">
+    </edge>
+    <edge source="n78" target="n561">
+    </edge>
+    <edge source="n129" target="n561">
+    </edge>
+    <edge source="n181" target="n561">
+    </edge>
+    <edge source="n235" target="n561">
+    </edge>
+    <edge source="n281" target="n561">
+    </edge>
+    <edge source="n336" target="n561">
+    </edge>
+    <edge source="n383" target="n561">
+    </edge>
+    <edge source="n434" target="n561">
+    </edge>
+    <edge source="n485" target="n561">
+    </edge>
+  </graph>
+</graphml>
