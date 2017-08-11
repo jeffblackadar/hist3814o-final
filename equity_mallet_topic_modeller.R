@@ -21,11 +21,14 @@ require(mallet)
 #you can change this to whatever folder name you are working from. Just make sure to change it in lines 20, 57, and 64.
 
 documents <- mallet.read.dir("C:\\a_orgs\\carleton\\hist3814\\equity_subcollections\\Prov El")
-mallet.instances <- mallet.import(documents$id, documents$text, "C:\\a_orgs\\carleton\\hist3814\\R\\hist3814o-final\\stopwords.txt",
+
+#Stopwords list must be 1 per line
+#http://taporware.ualberta.ca/~taporware/cgi-bin/prototype/glasgowstoplist.txt
+mallet.instances <- mallet.import(documents$id, documents$text, "glasgowstoplist_mod.txt",
                                   token.regexp = "\\p{L}[\\p{L}\\p{P}]+\\p{L}")
 
 #create topic trainer object
-n.topics <- 30
+n.topics <- 35
 topic.model <- MalletLDA(n.topics)
 
 #load documents
@@ -37,7 +40,7 @@ vocabulary <- topic.model$getVocabulary()
 word.freqs <- mallet.word.freqs(topic.model)
 ## Optimize hyperparameters every 20 iterations,
 ## after 50 burn-in iterations.
-topic.model$setAlphaOptimization(20, 50)
+topic.model$setAlphaOptimization(50, 50)
 
 ## Now train a model. Note that hyperparameter optimization is on, by default.
 ## We can specify the number of iterations. Here we'll use a large-ish round number.
@@ -45,7 +48,7 @@ topic.model$train(200)
 
 ## NEW: run through a few iterations where we pick the best topic for each token,
 ## rather than sampling from the posterior distribution.
-topic.model$maximize(10)
+topic.model$maximize(50)
 
 ## Get the probability of topics in documents and the probability of words in topics.
 ## By default, these functions return raw word counts. Here we want probabilities,
@@ -66,23 +69,29 @@ for (topic in 1:n.topics) topics.labels[topic] <- paste(mallet.top.words(topic.m
 topics.labels
 write.csv(topics.labels, "C:\\a_orgs\\carleton\\hist3814\\R\\hist3814o-final\\equity-topics-labels.csv")
 
+## cluster based on shared words
+plot(hclust(dist(topic.words)), labels=topics.labels)
+
+
 # create data.frame with columns as people and rows as topics
 topic_docs <- data.frame(topic.docs)
 names(topic_docs) <- documents$id
 
-## cluster based on shared words
-plot(hclust(dist(topic.words)), labels=topics.labels)
+# Calculate similarity matrix
+# Shows which documents are similar to each other
+# by their proportions of topics. Based on Matt Jockers' method
 
-#' Calculate similarity matrix
-#' Shows which documents are similar to each other
-#' by their proportions of topics. Based on Matt Jockers' method
+######
+# THIS PART BELOW DOES NOT WORK FOR ME.  LEAVING HERE IN CASE I CAN FIX THIS.
+######
 
 library(cluster)
+#topic_df_dist <- as.matrix(daisy(t(topic_docs), metric = "euclidean", stand = TRUE))
 topic_df_dist <- as.matrix(daisy(t(topic_docs), metric = "euclidean", stand = TRUE))
 # Change row values to zero if less than row minimum plus row standard deviation
 # keep only closely related documents and avoid a dense spagetti diagram
 # that's difficult to interpret (hat-tip: http://stackoverflow.com/a/16047196/1036500)
-topic_df_dist[ sweep(topic_df_dist, 1, (apply(topic_df_dist,1,min) + apply(topic_df_dist,1,sd) )) > 0 ] <- 0
+topic_df_dist[ sweep(topic_df_dist, 1, (apply(topic_df_dist,1,min) + apply(topic_df_dist,1,sd))) > 0 ] <- 0
 
 # Use kmeans to identify groups of similar authors
 
@@ -95,6 +104,9 @@ for(i in 1:n.topics){
 
 # Here's the list of people by group
 allnames
+
+
+
 
 # Visualize people similarity using force-directed network graphs
 
