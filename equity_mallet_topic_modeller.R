@@ -3,6 +3,8 @@
 # referenced in
 # Graham, Shawn, Ian Milligan, Scott Weingart. "[section name]" The Historian's Macroscope - working title. Under contract with Imperial College Press. Open Draft Version, Autumn 2013, http://themacroscope.org
 
+
+
 #this whole script is based on Ben Marwick's Day of Archaeology work https://github.com/benmarwick/dayofarchaeology
 Sys.setenv(NOAWT=TRUE)
 
@@ -60,14 +62,14 @@ topic.words <- mallet.topic.words(topic.model, smoothed=T, normalized=T)
 ## transpose and normalize the doc topics
 topic.docs <- t(doc.topics)
 topic.docs <- topic.docs / rowSums(topic.docs)
-write.csv(topic.docs, "C:\\a_orgs\\carleton\\hist3814\\R\\hist3814o-final\\equity-topics-docs.csv")
+write.csv(topic.docs, "C:\\a_orgs\\carleton\\hist3814\\R\\hist3814o-final\\equity-topics-docs-prov-el.csv")
 
 ## Get a vector containing short names for the topics
 topics.labels <- rep("", n.topics)
 for (topic in 1:n.topics) topics.labels[topic] <- paste(mallet.top.words(topic.model, topic.words[topic,], num.top.words=5)$words, collapse=" ")
 # have a look at keywords for each topic
 topics.labels
-write.csv(topics.labels, "C:\\a_orgs\\carleton\\hist3814\\R\\hist3814o-final\\equity-topics-labels.csv")
+write.csv(topics.labels, "C:\\a_orgs\\carleton\\hist3814\\R\\hist3814o-final\\equity-topics-labels-prov-el.csv")
 
 ## cluster based on shared words
 plot(hclust(dist(topic.words)), labels=topics.labels)
