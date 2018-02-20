@@ -75,6 +75,8 @@ writeLines('<tr><th>Date of<br> edition</th><th>.pdf</th><th>.txt</th><th>Federa
 
 
 while (length(urlLine <- readLines(inputCon, n = 1, warn = FALSE)) > 0) {
+    #Added per changes to collections.banq.qc.ca website
+    urlLine=gsub(":8008","",urlLine)
     urlLineElements = strsplit(urlLine, "/")
     #make sure it is a complete line
     if(length(urlLineElements[[1]])>8){
@@ -96,10 +98,10 @@ while (length(urlLine <- readLines(inputCon, n = 1, warn = FALSE)) > 0) {
     #set file name, make it look like this: 83471_1920-06-10.pdf
     if (length(urlLineElements[[1]])==10){
       #editions with dates like these (/2010/08/25/01/) are supplements  
-      writeLines(paste('<td><a href="',urlLine,'">',format(dateOfEdition,format='%Y/%m/%d'),' (sup.)','</a></td>',sep=""),outputFileHtmlCon)
+      writeLines(paste('<td>',format(dateOfEdition,format='%Y/%m/%d'),' (sup.)','</td>',sep=""),outputFileHtmlCon)
       editionFileName<-paste('83471_',urlLineElements[[1]][7],'-',urlLineElements[[1]][8],'-',urlLineElements[[1]][9],'-',urlLineElements[[1]][10],sep='')  
     } else {
-      writeLines(paste('<td><a href="',urlLine,'">',format(dateOfEdition,format='%Y/%m/%d'),'</a></td>',sep=""),outputFileHtmlCon)
+      writeLines(paste('<td>',format(dateOfEdition,format='%Y/%m/%d'),'</td>',sep=""),outputFileHtmlCon)
       editionFileName<-paste('83471_',urlLineElements[[1]][7],'-',urlLineElements[[1]][8],'-',urlLineElements[[1]][9],sep='')        
     }
 

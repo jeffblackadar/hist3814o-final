@@ -42,6 +42,7 @@ library(tokenizers)
 library(tidyverse)
 
 #load list of 1000 most commen words in English.  
+#Norvig, Peter. "Natural Language Corpus Data: Beautiful Data." [online] Peter@Norvig.com. Available at:http://norvig.com/ngrams/ [Accessed 20 August 2017].
 #http://norvig.com/ngrams/
 comWords1<-strsplit("understandings,understanding,conversations,disappearing,informations,grandmothers,grandfathers,questionings,conversation,information,approaching,understands,immediately,positioning,questioning,grandmother,travellings,questioners,recognizing,recognizers,televisions,remembering,rememberers,expressions,discovering,disappeared,interesting,grandfather,straightest,controllers,controlling,considering,remembered,cigarettes,companying,completely,spreadings,considered,continuing,controlled,stationing,controller,straighter,stretching,businesses,somebodies,soldiering,countering,darknesses,situations,directions,disappears,younglings,suggesting,afternoons,breathings,distancing,screenings,schoolings,especially,everything,everywhere,explaining,explainers,expression,branchings,revealings,repeatings,surprising,rememberer,somewheres,television,themselves,recognizer,recognizes,recognized,belongings,finishings,travelling,questioner,beginnings,travelings,questioned,followings,pretending,forgetting,forgetters,forwarding,positioned,travellers,gatherings,perfecting,understand,understood,weightings,approaches,officering,numberings,happenings,mentioning,letterings,husbanding,imaginings,approached,apartments,whispering,interested,discovered,spinnings,clearings,climbings,spendings,clothings,colorings,soundings,truckings,somewhere,troubling,companies,companied,beautiful,computers,confusing,considers,travelers,youngling,continues,continued,traveller,traveling,yellowing,apartment,beginning,wheelings,travelled,sometimes,something,appearing,cornering,believing,countered,believers,countries,soldiered,coverings,creatures,crossings,accepting,daughters,belonging,situation,silvering,different,silencing,touchings,bettering,tomorrows,disappear,thinkings,boardings,discovers,admitting,wrappings,distances,distanced,sightings,shrugging,doctoring,showering,shoulders,shoppings,shootings,dressings,sheetings,shadowing,settlings,servicing,seriously,seconding,searching,weighting,screening,screaming,schooling,teachings,bothering,everybody,botherers,bottoming,excepting,expecting,explained,direction,explainer,surprised,surprises,waterings,branching,revealing,returning,surfacing,familiars,repeating,fathering,reminding,supposing,breasting,attacking,remembers,breathing,remaining,breathers,brightest,brownings,suggested,recognize,fightings,attention,figurings,receiving,reasoning,realizing,fingering,buildings,finishing,stupidest,stuffings,questions,watchings,flashings,strongest,strikings,flighting,flowering,promisers,promising,following,bathrooms,prettiest,pretended,stretched,foreheads,foresting,stretches,forgotten,pressings,forgetter,strangest,preparing,forwarded,strangers,possibles,positions,afternoon,straights,pocketing,gardening,pleasings,wondering,gathering,picturing,personals,perfected,stomaches,stomached,carefully,stationed,catchings,parenting,paintings,orderings,groupings,wintering,officered,offerings,centering,numbering,neighbors,certainly,happening,narrowing,narrowest,mountains,mothering,mirroring,middlings,messaging,standings,mentioned,mattering,marriages,histories,machining,hospitals,listening,lightings,springing,lettering,husbanded,spreaders,whispered,imagining,imaginers,spreading,important,languages,answering,cigarette,interests,spiriting,cleanings,knockings,soundest,coatings,sounders,sounding,colleges,coloring,colorful,wouldn't,training,colorers,sorriest,worrying,belonged,approach,tracking,touchers,touching,computer,whatever,toppings,confused,confuses,workings,consider,bettered,teething,tonights,tonguers,tonguing,continue,arriving,tomorrow,controls,together,blacking,blackest,throwers,blocking,throwing,coolings,someones,blockers,somebody,thirties,soldiers,cornered,weighted,counting,thoughts,counters,thinking,thinners,thinning,coursing,covering,thinnest,craziest,snapping,creating,creature,thickest,boarding,crossing,smokings,crowding",split=",", fixed=TRUE)
 comWords2<-strsplit("smelling,smallest,cuttings,slipping,slightly,dancings,sleepers,sleeping,slamming,wordings,darkness,daughter,boatings,skinning,weddings,thanking,sittings,deciding,deciders,singling,singings,despites,simplest,terrible,silvered,tellings,wearings,youngest,watering,silences,teachers,bookings,agreeing,teaching,discover,attacked,bothered,botherer,watching,swingers,bottling,distance,silenced,signings,bottomed,sighting,shutting,shrugged,wondered,swinging,doctored,sweetest,showered,showings,doorways,shouting,shoulder,wronging,shortest,surprise,dragging,shopping,shooters,drawings,actually,shooting,dreaming,dressing,avoiding,shitting,shirting,shipping,drinking,drinkers,braining,sheeting,sharpest,drivings,sharpers,dropping,droppers,shadowed,surfaced,settling,washings,settings,services,serviced,earliest,backings,earthing,servings,branches,branched,seconded,seatings,surfaces,searched,searches,walkings,screened,waitings,screamed,supposed,emptiest,emptying,breaking,breakers,schooled,enjoying,enjoyers,entering,runnings,breasted,rounders,rounding,supposes,everyone,visitors,visiting,breathed,excepted,roofings,exciting,breathes,expected,rollings,bankings,breather,explains,villages,bridging,viewings,brighter,ringings,righting,suitings,bringing,revealed,bringers,returned,failings,repliers,replying,repeated,brothers,familiar,wintered,families,suggests,farthest,furthest,browning,fathered,removing,building,reminded,bathroom,allowing,suddenly,remember,allowers,feedings,builders,burnings,feelings,remained,refusing,stupider,windings,although,stuffing,studying,business,angriest,fighting,fighters,students,figuring,received,twenties,receives,fillings,reasoned,findings,stronger,turnings,realizes,realized,readiest,fingered,readying,striking,trusters,finishes,trusting,finished,readings,reachers,reaching,quieters,quietest,quieting,fittings,quickest,writings,beaching,question,trucking,callings,stranger,flashing,beatings,answered,flattest,flatting,flighted,straight,troubled,flowered,pullings,storming,promiser,couldn't,promised,promises,couldn’t,followed,stoppers,problems,probably,prettier,stopping,pretends,stomachs,troubles,pressers,tripping,forehead,stickers,forested,pressing,whispers,carrying,sticking,carriers,stepping,stealers,forwards,stealing,becoming,prepares,prepared,powering,freeings,stations,possible,position,freshest,beddings,wrapping,fronting,catching,fuckings,policing,funniest,pointers,pointing,catchers,pocketed,gardened,starters,ceilings,pleasing,gathered,starting,centered,platings,plastics,planning,pictured,pictures,traveler,pickings,personal,glancing,yourself,chancing,perfects,changing,peopling,partying,partings,parented,grabbing,grabbers,changers,checking,starring,bedrooms,checkers,pairings,standing,painting,outsides,greatest,cheeking,greening,greenest,grouping,ordering,anything,openings,guarding,wheeling,officers,guessing,spreader,offering,children,anywhere,numbered,choicest,noticers,noticing,hallways,nothings,hangings,nobodies,admitted,neighbor,choosing,choosers,happened,neckings,happiest,narrowed,narrower,spotting,churches,mouthing,traveled,mountain,mothered,accepted,mornings,mirrored,headings,spirited,hearings,heatings,circling,middling,messaged,messages,heaviest,wouldn’t,spinners,mentions,helpings,cleanest,memories,meetings,meanings,appeared,mattered,marrieds,marrying,marriage,yellowed,markings,cleaning,managing,cleaners,holdings,machined,machines,lunching,luckiest,lowering,longings,clearest,hospital,lockings,littlest,clearing,listened,housings,lightest,lighting,lighters,spinning,hundreds,hurrying,believes,spenders,believed,climbing,husbands,lettered,lettings,learning,leadings,ignoring,laughing,ignorers,imagines,yellower,imagined,climbers,imaginer,spending,closings,specials,speakers,language,believer,clothing,clouding,speaking,interest,spacings,landings,knowings,southest,jacketed,knocking,kitchens",split=",", fixed=TRUE)
@@ -72,7 +73,8 @@ sigDateStringMunElection=c("1983-11-06","1985-11-03","1986-11-09","1987-11-01","
 sigDateMunElection=as.Date(sigDateStringMunElection,"%Y-%m-%d")
 
 #openconnecton to read file
-inputFile <- "equityurls.txt"
+#inputFile <- "equityurls.txt"
+inputFile <- "equityurls_1883-1999.txt"  #just use until 1999 for this finding aid
 #using a shorter test file
 #inputFile <- "equityurls_test.txt"
 #inputFile <- "equityurls_test_18830607.txt"
@@ -90,11 +92,14 @@ outputFileHtmlCon<-file(outputFileHtml, open = "w")
 writeLines('base url,year,month,day,weekday,Federal Election, Provincial Election, Provincial Referendum, Municipal Election, Topics', outputFileCsvCon)
 
 #set up web page at top of html
-writeLines('<html><head><title></title></head><body><h1>Editions of the Shawville Equity.</h1><table>', outputFileHtmlCon)
-writeLines('<tr><th>Date of<br> edition</th><th>.pdf</th><th>.txt</th><th>Federal<br>Election</th><th>Provincial<br>Election</th><th>Provincial<br>Referendum</th><th>Municipal<br>Election</th><th>topcis</th></tr>', outputFileHtmlCon)
+writeLines('<html><head><title></title></head><body><h1>Editions of the Shawville Equity.</h1><table border=1>', outputFileHtmlCon)
+writeLines('<tr><th>Date of<br> edition</th><th>.pdf</th><th>.txt</th><th>Federal<br>Election</th><th>Provincial<br>Election</th><th>Provincial<br>Referendum</th><th>Municipal<br>Election</th><th>topics</th></tr>', outputFileHtmlCon)
 
 
 while (length(urlLine <- readLines(inputCon, n = 1, warn = FALSE)) > 0) {
+  #Added per changes to collections.banq.qc.ca website
+    urlLine=gsub(":8008","",urlLine)
+
     urlLineElements = strsplit(urlLine, "/")
     #make sure it is a complete line
     if(length(urlLineElements[[1]])>8){
@@ -116,10 +121,10 @@ while (length(urlLine <- readLines(inputCon, n = 1, warn = FALSE)) > 0) {
     #set file name, make it look like this: 83471_1920-06-10.pdf
     if (length(urlLineElements[[1]])==10){
       #editions with dates like these (/2010/08/25/01/) are supplements  
-      writeLines(paste('<td><a href="',urlLine,'">',format(dateOfEdition,format='%Y/%m/%d'),' (sup.)','</a></td>',sep=""),outputFileHtmlCon)
+      writeLines(paste('<td>',format(dateOfEdition,format='%Y/%m/%d'),' (sup.)','</td>',sep=""),outputFileHtmlCon)
       editionFileName<-paste('83471_',urlLineElements[[1]][7],'-',urlLineElements[[1]][8],'-',urlLineElements[[1]][9],'-',urlLineElements[[1]][10],sep='')  
     } else {
-      writeLines(paste('<td><a href="',urlLine,'">',format(dateOfEdition,format='%Y/%m/%d'),'</a></td>',sep=""),outputFileHtmlCon)
+      writeLines(paste('<td>',format(dateOfEdition,format='%Y/%m/%d'),'</td>',sep=""),outputFileHtmlCon)
       editionFileName<-paste('83471_',urlLineElements[[1]][7],'-',urlLineElements[[1]][8],'-',urlLineElements[[1]][9],sep='')        
     }
 
@@ -140,6 +145,9 @@ while (length(urlLine <- readLines(inputCon, n = 1, warn = FALSE)) > 0) {
     thisDateColumn<-editionWithinWeekOfDate(dateOfEdition,sigDateMunElection, "Mun El")
     writeLines(thisDateColumn[1],outputFileHtmlCon)
     MunEl<-thisDateColumn[2]
+    
+    # The section below comes largely from:
+    warnings()# Arnold, Taylor, Lauren Tilton. "Basic Text Processing in R" [online] The Programming Historian. Available at: https://programminghistorian.org/lessons/basic-text-processing-in-r [Accessed 20 August 2017].
     
     #get significant words
     inputEquityTextFile <-paste("c:\\a_orgs\\carleton\\hist3814\\equity\\",editionFileName,".txt",sep="")
@@ -170,7 +178,6 @@ while (length(urlLine <- readLines(inputCon, n = 1, warn = FALSE)) > 0) {
     thisCell<-paste('<td>',topicsInEditionString,'</td>',sep="")
     writeLines(thisCell,outputFileHtmlCon)
     thisCsValue<-paste(',',topicsInEditionString,sep="")
-
     
     writeLines(paste(outputLine,FedEl,ProvEl,ProvRef,MunEl,thisCsValue,sep=""),outputFileCsvCon)
     writeLines('</tr>', outputFileHtmlCon)
